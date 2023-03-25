@@ -1,5 +1,6 @@
 # Class_Works
 Report Practice Set Regrading Java Lab for University report
+<hr>
 This repository contains Java lab work assignments and solutions.
 
 ### Getting Started
